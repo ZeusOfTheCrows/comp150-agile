@@ -157,3 +157,9 @@ pythontex-files-*/
 
 # Latexian
 TSWLatexianTemp*
+
+#TeXmaker
+*.aux
+*.log
+*.out
+*.synctex.gz
